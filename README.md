@@ -1,9 +1,9 @@
-# data-cleaning-sql-project
-# 📊 Data Cleaning Project (SQL)
+# data-cleaning & EDA-sql-project
+# 📊 Data Cleaning & EDA Project (SQL)
 
 ## 📌 Project Overview
 
-This project focuses on cleaning and preparing raw layoff dataset using SQL.
+This project focuses on cleaning and preparing raw layoff dataset and exploratory data analysis on layoffs dataset using SQL.
 
 ## 🗂 Dataset
 
@@ -34,6 +34,15 @@ This project focuses on cleaning and preparing raw layoff dataset using SQL.
 
 * Cleaned and structured dataset ready for analysis
 * Improved data consistency and accuracy
+  
+ ## 🔹 Exploratory Data Analysis (EDA)
+
+* Analyzed layoffs by company, industry, and country
+* Identified industries with highest layoffs
+* Analyzed trends by year and month
+* Calculated rolling total layoffs
+* Ranked top 5 companies by layoffs each year
+ 
 
 
 

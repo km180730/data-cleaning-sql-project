@@ -1,21 +1,21 @@
 # data-cleaning & EDA-sql-project
-# 📊 Data Cleaning & EDA Project (SQL)
+#  Data Cleaning & EDA Project (SQL)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on cleaning and preparing raw layoff dataset and exploratory data analysis on layoffs dataset using SQL.
 
-## 🗂 Dataset
+## Dataset
 
 * Source: Kaggle Layoffs Dataset
 * Contains company layoffs data across industries
 
-## 🛠 Tools Used
+## Tools Used
 
 * MySQL
 * SQL Queries
 
-## 🔧 Data Cleaning Steps
+## Data Cleaning Steps
 
 1. Removed duplicate records using ROW_NUMBER()
 2. Standardized text data (company, industry, country)
@@ -23,19 +23,19 @@ This project focuses on cleaning and preparing raw layoff dataset and explorator
 4. Converted date format using STR_TO_DATE()
 5. Removed unnecessary columns
 
-## 🔍 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * Data Cleaning
 * SQL Joins
 * Window Functions
 * Data Transformation
 
-## 📈 Outcome
+## Outcome
 
 * Cleaned and structured dataset ready for analysis
 * Improved data consistency and accuracy
   
- ## 🔹 Exploratory Data Analysis (EDA)
+ ## Exploratory Data Analysis (EDA)
 
 * Analyzed layoffs by company, industry, and country
 * Identified industries with highest layoffs
